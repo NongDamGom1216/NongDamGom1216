@@ -12,25 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNongDamGom1216&count_bg=%233DB9C8&title_bg=%234E58F2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
-<a href="https://www.instagram.com/hyunjin5735">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- 
-</div>
+### 😄 Hello! I'm Hyun Jin 🌱
 
-
-
-## To Be Developer
+## 📱 To Be Developer 
 
 앱 개발자를 목표로 공부하고 있습니다.
 
-## Stack
+## 💻 Skills
 
 - Kotlin
 - Swift
@@ -38,5 +26,20 @@ Here are some ideas to get you started:
 - Raspberry Pi
 
 
+## 📝 Github Status
+<div align=center>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216)](https://github.com/anuraghazra/github-readme-stats)
+ <a>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216)](https://github.com/anuraghazra/github-readme-stats)
+ </a>
+ 
+
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNongDamGom1216&count_bg=%233DB9C8&title_bg=%234E58F2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+ ## 😍 Contact
+ <a href="https://www.instagram.com/hyunjin5735">
+     <img 
+         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+ </a>
