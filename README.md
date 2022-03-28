@@ -34,7 +34,13 @@ Here are some ideas to get you started:
 ## 📝 Github Status
 <div align=center>
 
- <a>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216&show_icons=true&theme=blueberry)</a>
+ <div>
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216&show_icons=true&theme=blueberry)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NongDamGom1216&langs_count=8&hide=css,scss)
+  
+ </div>
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNongDamGom1216&count_bg=%233DB9C8&title_bg=%234E58F2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
