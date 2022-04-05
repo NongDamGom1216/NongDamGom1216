@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 📱 To Be Developer 
 
-☕️ Junior Developer
+☕️ Junior Software Developer
 
 🍰 학습했던 코드 및 자료들을 기록하며 뿌듯함을 느껴요
 
