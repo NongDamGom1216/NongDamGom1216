@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216&show_icons=true&theme=blueberry)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NongDamGom1216&langs_count=5&hide=css,scss,jupyter%20notebook,java,Processing,C,c%2B%2B)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NongDamGom1216&langs_count=5&hide=css,scss,jupyter%20notebook,javascript,java,Processing,C,c%2B%2B)
   
  </div>
  
