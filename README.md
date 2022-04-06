@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ☕️ Junior Software Developer
 
-🍰 학습했던 코드 및 자료들을 기록하며 뿌듯함을 느껴요
+https://nongdamgom1216.github.io/Portfolio/
 
 
 ## 💻 Skills
