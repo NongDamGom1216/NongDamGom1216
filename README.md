@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ## 📱 To Be Developer 
 
-☕️ Junior Software Developer
-
 https://nongdamgom1216.github.io/Portfolio/
 
 
