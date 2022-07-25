@@ -36,7 +36,7 @@ https://nongdamgom1216.github.io/Portfolio/
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216&show_icons=true&theme=blueberry)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NongDamGom1216&langs_count=5&hide=css,scss,jupyter%20notebook,javascript,java,Processing,C,c%2B%2B,PHP,shell)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NongDamGom1216&langs_count=5&hide=css,scss,jupyter%20notebook,Processing,C,c%2B%2B,PHP,shell)
   
  </div>
  
