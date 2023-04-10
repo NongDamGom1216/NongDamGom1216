@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 -->
 # 😄 Hello! I'm Hyun Jin 🌱
 
-## 📱 To Be Developer 
-
-https://nongdamgom1216.github.io/Portfolio/
-
-
 ## 💻 Skills
 
 <div>
