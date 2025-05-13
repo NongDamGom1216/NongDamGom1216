@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 
 ## 📝 Github Status
 <div align=center>
-
  <div>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NongDamGom1216&show_icons=true&theme=blueberry)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NongDamGom1216&langs_count=5&hide=css,scss,jupyter%20notebook,Processing,c%2B%2B,PHP,shell,javascript)
+ </div>
+ 
+ </div>
 
  ## 😍 Contact
  <a href="https://www.instagram.com/hyunjin5735">
